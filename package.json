@@ -1,0 +1,17 @@
+{
+  "name": "filo-api",
+  "version": "1.0.0",
+  "description": "Bu proje, araç (filo) verileri için hızlı bir şekilde sahte (mock) bir REST API oluşturmak amacıyla `json-server` kullanır.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "json-server --watch db.json --port 3001",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3"
+  }
+}

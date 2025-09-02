@@ -1,0 +1,212 @@
+{
+  "vehicles": [
+    {
+      "id": "1",
+      "plaka": "34 ABC 123",
+      "sase_no": "VN1234567890ABCDE",
+      "marka": "Ford",
+      "model": "Focus",
+      "yil": 2022
+    },
+    {
+      "id": "2",
+      "plaka": "06 DEF 456",
+      "sase_no": "VN2345678901BCDEF",
+      "marka": "Fiat",
+      "model": "Egea",
+      "yil": 2023
+    },
+    {
+      "id": "3",
+      "plaka": "35 GHI 789",
+      "sase_no": "VN3456789012CDEFG",
+      "marka": "Renault",
+      "model": "Clio",
+      "yil": 2021
+    },
+    {
+      "id": "4",
+      "plaka": "16 JKL 012",
+      "sase_no": "VN4567890123DEFGH",
+      "marka": "Toyota",
+      "model": "Corolla",
+      "yil": 2024
+    },
+    {
+      "id": "5",
+      "plaka": "01 MNO 345",
+      "sase_no": "VN5678901234EFGHI",
+      "marka": "Volkswagen",
+      "model": "Passat",
+      "yil": 2020
+    },
+    {
+      "id": "6",
+      "plaka": "34 PQR 678",
+      "sase_no": "VN6789012345FGHIJ",
+      "marka": "Hyundai",
+      "model": "i20",
+      "yil": 2022
+    },
+    {
+      "id": "7",
+      "plaka": "07 STU 901",
+      "sase_no": "VN7890123456GHIJK",
+      "marka": "Honda",
+      "model": "Civic",
+      "yil": 2023
+    },
+    {
+      "id": "8",
+      "plaka": "34 VWX 234",
+      "sase_no": "VN8901234567HIJKL",
+      "marka": "Peugeot",
+      "model": "3008",
+      "yil": 2021
+    },
+    {
+      "id": "9",
+      "plaka": "06 YZA 567",
+      "sase_no": "VN9012345678IJKLM",
+      "marka": "Skoda",
+      "model": "Octavia",
+      "yil": 2024
+    },
+    {
+      "id": "10",
+      "plaka": "55 BCD 555",
+      "sase_no": "VN0123456789JKLMN",
+      "marka": "Dacia",
+      "model": "Duster",
+      "yil": 2022
+    },
+    {
+      "id": "a904",
+      "plaka": "55 abc 555",
+      "sase_no": "KFNAPOWNF23242",
+      "marka": "Toyoto",
+      "model": "Corolla",
+      "yil": "2012"
+    },
+    {
+      "id": "0be3",
+      "plaka": "11 ABC 111  ",
+      "sase_no": "FMAWFMAW23131",
+      "marka": "TOYOTO",
+      "model": "COROLLA",
+      "yil": 2024
+    },
+    {
+      "id": "72ba",
+      "plaka": "22 AAA 222",
+      "sase_no": "FSawFAWAMW1233",
+      "marka": "FİAT",
+      "model": "EGEA",
+      "yil": 2023
+    },
+    {
+      "id": "da3f",
+      "plaka": "33 MER 333",
+      "sase_no": "FWNFOPANWF1223",
+      "marka": "RENAULT",
+      "model": "MEGANE",
+      "yil": 2010
+    },
+    {
+      "id": "1619",
+      "plaka": "00 DEF 000",
+      "sase_no": "EFENFSEN23423",
+      "marka": "Peugeot",
+      "model": "3008",
+      "yil": 2021
+    },
+    {
+      "id": "76db",
+      "plaka": "00 DEF 000",
+      "sase_no": "EFENFSEN23423",
+      "marka": "Peugeot",
+      "model": "3012",
+      "yil": 2021
+    },
+    {
+      "id": "5896",
+      "plaka": "00 DEF 000",
+      "sase_no": "EFENFSEN23423",
+      "marka": "Peugeot",
+      "model": "3011",
+      "yil": 2021
+    },
+    {
+      "id": "2ba5",
+      "plaka": "00 DEF 000",
+      "sase_no": "EFENFSEN23423",
+      "marka": "Peugeot",
+      "model": "3010",
+      "yil": 2021
+    },
+    {
+      "id": "bad3",
+      "plaka": "00 DEF 000",
+      "sase_no": "EFENFSEN23423",
+      "marka": "Peugeot",
+      "model": "3008",
+      "yil": 2001
+    },
+    {
+      "id": "88c3",
+      "plaka": "00 DEF 000",
+      "sase_no": "EFENFSEN23423",
+      "marka": "Peugeot",
+      "model": "3008",
+      "yil": 2001
+    },
+    {
+      "id": "1618",
+      "plaka": "00 DEF 000",
+      "sase_no": "EFENFSEN23423",
+      "marka": "Peugeot",
+      "model": "3008",
+      "yil": 2002
+    },
+    {
+      "id": "1431",
+      "plaka": "00 DEF 000",
+      "sase_no": "EFENFSEN23423",
+      "marka": "Peugeot",
+      "model": "3008",
+      "yil": 1977
+    },
+    {
+      "id": "9912",
+      "plaka": "",
+      "sase_no": "",
+      "marka": "",
+      "model": "",
+      "yil": 2024
+    },
+    {
+      "id": "b034",
+      "plaka": "",
+      "sase_no": "",
+      "marka": "",
+      "model": "",
+      "yil": 2024
+    },
+    {
+      "id": "a5be",
+      "plaka": "",
+      "sase_no": "",
+      "marka": "",
+      "model": "",
+      "yil": 2024
+    },
+    {
+      "id": "d744",
+      "plaka": "55 BCD 555",
+      "sase_no": "KFNAPOWNF23242",
+      "marka": "Toyoto",
+      "model": "Corolla",
+      "yil": 1999
+    }
+  ]
+}
