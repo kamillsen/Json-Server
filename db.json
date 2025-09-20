@@ -1265,5 +1265,2131 @@
       "approvingRegistrySignature": "İzmir Trafik Tescil",
       "documentSerialNo": "JJ 012345"
     }
+  ],
+  "vehicle-header": [
+    {
+      "id": "1",
+      "plaka": "34 ABC 123",
+      "durum": "aktif",
+      "durumRenk": "success",
+      "marka": "Toyota",
+      "model": "Corolla",
+      "yil": 2021,
+      "ticariAdi": "Corolla 1.6 Advance",
+      "renk": "Beyaz"
+    },
+    {
+      "id": "2",
+      "plaka": "06 DEF 456",
+      "durum": "aktif",
+      "durumRenk": "success",
+      "marka": "Honda",
+      "model": "Civic",
+      "yil": 2022,
+      "ticariAdi": "Civic 1.6 i-DTEC Executive",
+      "renk": "Gri"
+    },
+    {
+      "id": "3",
+      "plaka": "35 GHI 789",
+      "durum": "bakimda",
+      "durumRenk": "warning",
+      "marka": "Hyundai",
+      "model": "i20",
+      "yil": 2023,
+      "ticariAdi": "i20 1.2 MPI Jump",
+      "renk": "Kırmızı"
+    },
+    {
+      "id": "4",
+      "plaka": "16 JKL 111",
+      "durum": "aktif",
+      "durumRenk": "success",
+      "marka": "Volkswagen",
+      "model": "Golf",
+      "yil": 2020,
+      "ticariAdi": "Golf 2.0 TDI Highline",
+      "renk": "Lacivert"
+    },
+    {
+      "id": "5",
+      "plaka": "01 PQR 333",
+      "durum": "aktif",
+      "durumRenk": "success",
+      "marka": "Peugeot",
+      "model": "3008",
+      "yil": 2023,
+      "ticariAdi": "3008 1.5 BlueHDi Active Prime",
+      "renk": "Siyah"
+    },
+    {
+      "id": "6",
+      "plaka": "34 YZA 666",
+      "durum": "aktif",
+      "durumRenk": "success",
+      "marka": "Mercedes-Benz",
+      "model": "C 200",
+      "yil": 2023,
+      "ticariAdi": "C 200 d AMG",
+      "renk": "Gümüş Gri"
+    },
+    {
+      "id": "7",
+      "plaka": "27 ABC 606",
+      "durum": "ariza",
+      "durumRenk": "danger",
+      "marka": "Citroen",
+      "model": "C4",
+      "yil": 2021,
+      "ticariAdi": "C4 1.2 PureTech Feel",
+      "renk": "Turuncu"
+    },
+    {
+      "id": "8",
+      "plaka": "06 JKL 909",
+      "durum": "aktif",
+      "durumRenk": "success",
+      "marka": "Tesla",
+      "model": "Model 3",
+      "yil": 2024,
+      "ticariAdi": "Model 3 Standard Range Plus",
+      "renk": "Pearl White"
+    },
+    {
+      "id": "9",
+      "plaka": "41 YZA 414",
+      "durum": "aktif",
+      "durumRenk": "success",
+      "marka": "BMW",
+      "model": "X1",
+      "yil": 2021,
+      "ticariAdi": "X1 sDrive18i",
+      "renk": "Mineral Gri"
+    },
+    {
+      "id": "10",
+      "plaka": "59 GHI 717",
+      "durum": "bakimda",
+      "durumRenk": "warning",
+      "marka": "Renault",
+      "model": "Megane",
+      "yil": 2022,
+      "ticariAdi": "Megane 1.6 Joy",
+      "renk": "Mavi"
+    }
+  ],
+  "vehicle-identity": [
+    {
+      "id": "1",
+      "plaka": "34 ABC 123",
+      "marka": "Toyota",
+      "model": "Corolla",
+      "modelYili": 2021,
+      "ticariAdi": "Corolla 1.6 Advance",
+      "organizasyon": "İstanbul Bölge Müdürlüğü",
+      "bolge": "Marmara",
+      "aktifLokasyon": "Kadıköy Garajı",
+      "departman": "Satış Ekibi",
+      "aracTipi": "Binek"
+    },
+    {
+      "id": "2",
+      "plaka": "06 DEF 456",
+      "marka": "Honda",
+      "model": "Civic",
+      "modelYili": 2022,
+      "ticariAdi": "Civic 1.6 i-DTEC Executive",
+      "organizasyon": "Ankara Merkez Ofis",
+      "bolge": "İç Anadolu",
+      "aktifLokasyon": "Çankaya Servisi",
+      "departman": "Yönetim",
+      "aracTipi": "Binek"
+    },
+    {
+      "id": "3",
+      "plaka": "35 GHI 789",
+      "marka": "Hyundai",
+      "model": "i20",
+      "modelYili": 2023,
+      "ticariAdi": "i20 1.2 MPI Jump",
+      "organizasyon": "İzmir Şubesi",
+      "bolge": "Ege",
+      "aktifLokasyon": "Karşıyaka Bakım Merkezi",
+      "departman": "Operasyon",
+      "aracTipi": "Binek"
+    },
+    {
+      "id": "4",
+      "plaka": "16 JKL 111",
+      "marka": "Volkswagen",
+      "model": "Golf",
+      "modelYili": 2020,
+      "ticariAdi": "Golf 2.0 TDI Highline",
+      "organizasyon": "Bursa Fabrika",
+      "bolge": "Marmara",
+      "aktifLokasyon": "Nilüfer Tesisleri",
+      "departman": "Üretim",
+      "aracTipi": "Binek"
+    },
+    {
+      "id": "5",
+      "plaka": "01 PQR 333",
+      "marka": "Peugeot",
+      "model": "3008",
+      "modelYili": 2023,
+      "ticariAdi": "3008 1.5 BlueHDi Active Prime",
+      "organizasyon": "Adana Bölge",
+      "bolge": "Akdeniz",
+      "aktifLokasyon": "Seyhan Ofisi",
+      "departman": "Saha Satış",
+      "aracTipi": "SUV"
+    },
+    {
+      "id": "6",
+      "plaka": "34 YZA 666",
+      "marka": "Mercedes-Benz",
+      "model": "C 200",
+      "modelYili": 2023,
+      "ticariAdi": "C 200 d AMG",
+      "organizasyon": "Genel Müdürlük",
+      "bolge": "Marmara",
+      "aktifLokasyon": "Beşiktaş Merkez",
+      "departman": "Üst Yönetim",
+      "aracTipi": "Premium Binek"
+    },
+    {
+      "id": "7",
+      "plaka": "27 ABC 606",
+      "marka": "Citroen",
+      "model": "C4",
+      "modelYili": 2021,
+      "ticariAdi": "C4 1.2 PureTech Feel",
+      "organizasyon": "İstanbul Anadolu",
+      "bolge": "Marmara",
+      "aktifLokasyon": "Tuzla Servis",
+      "departman": "Teknik Ekip",
+      "aracTipi": "Binek"
+    },
+    {
+      "id": "8",
+      "plaka": "06 JKL 909",
+      "marka": "Tesla",
+      "model": "Model 3",
+      "modelYili": 2024,
+      "ticariAdi": "Model 3 Standard Range Plus",
+      "organizasyon": "Ankara Teknoloji Merkezi",
+      "bolge": "İç Anadolu",
+      "aktifLokasyon": "ODTÜ Teknokent",
+      "departman": "Ar-Ge",
+      "aracTipi": "Elektrikli Binek"
+    },
+    {
+      "id": "9",
+      "plaka": "41 YZA 414",
+      "marka": "BMW",
+      "model": "X1",
+      "modelYili": 2021,
+      "ticariAdi": "X1 sDrive18i",
+      "organizasyon": "Kocaeli Lojistik",
+      "bolge": "Marmara",
+      "aktifLokasyon": "Gebze Depo",
+      "departman": "Lojistik",
+      "aracTipi": "SUV"
+    },
+    {
+      "id": "10",
+      "plaka": "59 GHI 717",
+      "marka": "Renault",
+      "model": "Megane",
+      "modelYili": 2022,
+      "ticariAdi": "Megane 1.6 Joy",
+      "organizasyon": "İzmir Liman",
+      "bolge": "Ege",
+      "aktifLokasyon": "Alsancak Ofisi",
+      "departman": "İthalat-İhracat",
+      "aracTipi": "Binek"
+    }
+  ],
+  "vehicle-status": [
+    {
+      "id": "1",
+      "durumRozeti": {
+        "durum": "aktif",
+        "renk": "success",
+        "ikon": "check-circle"
+      },
+      "kilometre": {
+        "guncel": 45320,
+        "maksimum": 200000,
+        "yuzde": 22.66
+      },
+      "yakitTuketimi": {
+        "aylik": 185,
+        "litre": "litre",
+        "sonAylar": [145, 165, 178, 190, 185],
+        "ortalamaKm": "6.8 L/100km"
+      },
+      "atanmisSurucu": {
+        "ad": "Ahmet Yılmaz",
+        "avatar": "/avatars/ahmet.jpg",
+        "telefon": "0532 111 2233"
+      },
+      "sonHareketNedeni": "Müşteri Ziyareti",
+      "sonKonum": {
+        "sehir": "İstanbul - Kadıköy",
+        "adres": "Bağdat Caddesi No: 125",
+        "guncellemeSaati": "2024-09-20 14:35",
+        "koordinat": "40.9756, 29.0611"
+      }
+    },
+    {
+      "id": "2",
+      "durumRozeti": {
+        "durum": "aktif",
+        "renk": "success",
+        "ikon": "check-circle"
+      },
+      "kilometre": {
+        "guncel": 28450,
+        "maksimum": 200000,
+        "yuzde": 14.23
+      },
+      "yakitTuketimi": {
+        "aylik": 210,
+        "litre": "litre",
+        "sonAylar": [195, 205, 215, 220, 210],
+        "ortalamaKm": "5.2 L/100km"
+      },
+      "atanmisSurucu": {
+        "ad": "Mehmet Kaya",
+        "avatar": "/avatars/mehmet.jpg",
+        "telefon": "0533 222 3344"
+      },
+      "sonHareketNedeni": "Toplantı",
+      "sonKonum": {
+        "sehir": "Ankara - Çankaya",
+        "adres": "Tunalı Hilmi Cad. No: 78",
+        "guncellemeSaati": "2024-09-20 15:20",
+        "koordinat": "39.9208, 32.8541"
+      }
+    },
+    {
+      "id": "3",
+      "durumRozeti": {
+        "durum": "bakimda",
+        "renk": "warning",
+        "ikon": "wrench"
+      },
+      "kilometre": {
+        "guncel": 12800,
+        "maksimum": 200000,
+        "yuzde": 6.4
+      },
+      "yakitTuketimi": {
+        "aylik": 140,
+        "litre": "litre",
+        "sonAylar": [120, 135, 145, 138, 140],
+        "ortalamaKm": "5.8 L/100km"
+      },
+      "atanmisSurucu": {
+        "ad": "Ayşe Demir",
+        "avatar": "/avatars/ayse.jpg",
+        "telefon": "0534 333 4455"
+      },
+      "sonHareketNedeni": "Periyodik Bakım",
+      "sonKonum": {
+        "sehir": "İzmir - Karşıyaka",
+        "adres": "Karşıyaka Oto Servis",
+        "guncellemeSaati": "2024-09-20 09:15",
+        "koordinat": "38.4560, 27.1121"
+      }
+    },
+    {
+      "id": "4",
+      "durumRozeti": {
+        "durum": "aktif",
+        "renk": "success",
+        "ikon": "check-circle"
+      },
+      "kilometre": {
+        "guncel": 67890,
+        "maksimum": 200000,
+        "yuzde": 33.95
+      },
+      "yakitTuketimi": {
+        "aylik": 195,
+        "litre": "litre",
+        "sonAylar": [180, 190, 200, 198, 195],
+        "ortalamaKm": "6.1 L/100km"
+      },
+      "atanmisSurucu": {
+        "ad": "Ali Öztürk",
+        "avatar": "/avatars/ali.jpg",
+        "telefon": "0535 444 5566"
+      },
+      "sonHareketNedeni": "Fabrika Kontrolü",
+      "sonKonum": {
+        "sehir": "Bursa - Nilüfer",
+        "adres": "Organize Sanayi Bölgesi",
+        "guncellemeSaati": "2024-09-20 16:45",
+        "koordinat": "40.2276, 28.9965"
+      }
+    },
+    {
+      "id": "5",
+      "durumRozeti": {
+        "durum": "aktif",
+        "renk": "success",
+        "ikon": "check-circle"
+      },
+      "kilometre": {
+        "guncel": 8500,
+        "maksimum": 200000,
+        "yuzde": 4.25
+      },
+      "yakitTuketimi": {
+        "aylik": 0,
+        "litre": "kWh",
+        "sonAylar": [120, 115, 125, 118, 122],
+        "ortalamaKm": "15.5 kWh/100km"
+      },
+      "atanmisSurucu": {
+        "ad": "Zeynep Yıldız",
+        "avatar": "/avatars/zeynep.jpg",
+        "telefon": "0536 555 6677"
+      },
+      "sonHareketNedeni": "Saha Ziyareti",
+      "sonKonum": {
+        "sehir": "Adana - Seyhan",
+        "adres": "Turgut Özal Bulvarı No: 200",
+        "guncellemeSaati": "2024-09-20 13:10",
+        "koordinat": "37.0000, 35.3213"
+      }
+    },
+    {
+      "id": "6",
+      "durumRozeti": {
+        "durum": "aktif",
+        "renk": "success",
+        "ikon": "check-circle"
+      },
+      "kilometre": {
+        "guncel": 15670,
+        "maksimum": 200000,
+        "yuzde": 7.84
+      },
+      "yakitTuketimi": {
+        "aylik": 245,
+        "litre": "litre",
+        "sonAylar": [230, 240, 250, 248, 245],
+        "ortalamaKm": "7.2 L/100km"
+      },
+      "atanmisSurucu": {
+        "ad": "Genel Müdür",
+        "avatar": "/avatars/gm.jpg",
+        "telefon": "0537 666 7788"
+      },
+      "sonHareketNedeni": "Yönetim Kurulu",
+      "sonKonum": {
+        "sehir": "İstanbul - Beşiktaş",
+        "adres": "Barbaros Plaza",
+        "guncellemeSaati": "2024-09-20 17:00",
+        "koordinat": "41.0451, 29.0067"
+      }
+    },
+    {
+      "id": "7",
+      "durumRozeti": {
+        "durum": "ariza",
+        "renk": "danger",
+        "ikon": "exclamation-triangle"
+      },
+      "kilometre": {
+        "guncel": 52340,
+        "maksimum": 200000,
+        "yuzde": 26.17
+      },
+      "yakitTuketimi": {
+        "aylik": 165,
+        "litre": "litre",
+        "sonAylar": [150, 160, 170, 168, 165],
+        "ortalamaKm": "6.0 L/100km"
+      },
+      "atanmisSurucu": {
+        "ad": "Fatma Şahin",
+        "avatar": "/avatars/fatma.jpg",
+        "telefon": "0538 777 8899"
+      },
+      "sonHareketNedeni": "Motor Arızası",
+      "sonKonum": {
+        "sehir": "İstanbul - Tuzla",
+        "adres": "Özel Servis - Çekicide",
+        "guncellemeSaati": "2024-09-20 11:30",
+        "koordinat": "40.8397, 29.3008"
+      }
+    },
+    {
+      "id": "8",
+      "durumRozeti": {
+        "durum": "aktif",
+        "renk": "success",
+        "ikon": "check-circle"
+      },
+      "kilometre": {
+        "guncel": 3200,
+        "maksimum": 200000,
+        "yuzde": 1.6
+      },
+      "yakitTuketimi": {
+        "aylik": 0,
+        "litre": "kWh",
+        "sonAylar": [95, 98, 102, 100, 97],
+        "ortalamaKm": "13.2 kWh/100km"
+      },
+      "atanmisSurucu": {
+        "ad": "Can Polat",
+        "avatar": "/avatars/can.jpg",
+        "telefon": "0539 888 9900"
+      },
+      "sonHareketNedeni": "Test Sürüşü",
+      "sonKonum": {
+        "sehir": "Ankara - ODTÜ",
+        "adres": "Teknokent B Blok",
+        "guncellemeSaati": "2024-09-20 16:15",
+        "koordinat": "39.8911, 32.7778"
+      }
+    },
+    {
+      "id": "9",
+      "durumRozeti": {
+        "durum": "aktif",
+        "renk": "success",
+        "ikon": "check-circle"
+      },
+      "kilometre": {
+        "guncel": 41250,
+        "maksimum": 200000,
+        "yuzde": 20.63
+      },
+      "yakitTuketimi": {
+        "aylik": 205,
+        "litre": "litre",
+        "sonAylar": [190, 200, 210, 208, 205],
+        "ortalamaKm": "6.9 L/100km"
+      },
+      "atanmisSurucu": {
+        "ad": "Emre Arslan",
+        "avatar": "/avatars/emre.jpg",
+        "telefon": "0540 999 0011"
+      },
+      "sonHareketNedeni": "Kargo Teslimat",
+      "sonKonum": {
+        "sehir": "Kocaeli - Gebze",
+        "adres": "Lojistik Merkezi A-12",
+        "guncellemeSaati": "2024-09-20 14:50",
+        "koordinat": "40.7982, 29.4303"
+      }
+    },
+    {
+      "id": "10",
+      "durumRozeti": {
+        "durum": "bakimda",
+        "renk": "warning",
+        "ikon": "wrench"
+      },
+      "kilometre": {
+        "guncel": 29800,
+        "maksimum": 200000,
+        "yuzde": 14.9
+      },
+      "yakitTuketimi": {
+        "aylik": 175,
+        "litre": "litre",
+        "sonAylar": [160, 170, 180, 178, 175],
+        "ortalamaKm": "6.5 L/100km"
+      },
+      "atanmisSurucu": {
+        "ad": "Selin Özkan",
+        "avatar": "/avatars/selin.jpg",
+        "telefon": "0541 000 1122"
+      },
+      "sonHareketNedeni": "Yağ Değişimi",
+      "sonKonum": {
+        "sehir": "İzmir - Bornova",
+        "adres": "Yetkili Servis",
+        "guncellemeSaati": "2024-09-20 10:00",
+        "koordinat": "38.4663, 27.2213"
+      }
+    }
+  ],
+  "vehicle-inspection": [
+    {
+      "id": "1",
+      "muayene": {
+        "tarih": "14.10.2025",
+        "kalanGun": 359,
+        "yuzde": 98,
+        "durum": "success"
+      },
+      "sigorta": {
+        "policeNo": "TRF2024001234",
+        "bitisTarihi": "14.10.2025",
+        "yenilemeDurumu": "Otomatik Yenileme Aktif",
+        "sirket": "Anadolu Sigorta",
+        "durum": "success"
+      },
+      "kasko": {
+        "policeNo": "KSK2024005678",
+        "bitisTarihi": "14.10.2025",
+        "sirket": "Allianz Sigorta",
+        "durum": "success"
+      },
+      "belgeler": {
+        "ruhsat": true,
+        "egzozEmisyon": true,
+        "kBelgesi": false,
+        "hgsOgs": true,
+        "trafik": true,
+        "kasko": true
+      },
+      "hgsOgs": {
+        "hgsNo": "1234567890",
+        "bakiye": 250.50,
+        "sonYukleme": "15.09.2024"
+      }
+    },
+    {
+      "id": "2",
+      "muayene": {
+        "tarih": "01.02.2026",
+        "kalanGun": 500,
+        "yuzde": 100,
+        "durum": "success"
+      },
+      "sigorta": {
+        "policeNo": "TRF2025002345",
+        "bitisTarihi": "01.02.2026",
+        "yenilemeDurumu": "Manuel Yenileme",
+        "sirket": "AXA Sigorta",
+        "durum": "success"
+      },
+      "kasko": {
+        "policeNo": "KSK2025006789",
+        "bitisTarihi": "01.02.2026",
+        "sirket": "Sompo Sigorta",
+        "durum": "success"
+      },
+      "belgeler": {
+        "ruhsat": true,
+        "egzozEmisyon": true,
+        "kBelgesi": true,
+        "hgsOgs": true,
+        "trafik": true,
+        "kasko": true
+      },
+      "hgsOgs": {
+        "hgsNo": "2345678901",
+        "bakiye": 180.25,
+        "sonYukleme": "10.09.2024"
+      }
+    },
+    {
+      "id": "3",
+      "muayene": {
+        "tarih": "20.06.2025",
+        "kalanGun": 273,
+        "yuzde": 75,
+        "durum": "success"
+      },
+      "sigorta": {
+        "policeNo": "TRF2024003456",
+        "bitisTarihi": "20.06.2025",
+        "yenilemeDurumu": "Otomatik Yenileme Aktif",
+        "sirket": "Mapfre Sigorta",
+        "durum": "success"
+      },
+      "kasko": {
+        "policeNo": "KSK2024007890",
+        "bitisTarihi": "20.06.2025",
+        "sirket": "HDI Sigorta",
+        "durum": "success"
+      },
+      "belgeler": {
+        "ruhsat": true,
+        "egzozEmisyon": true,
+        "kBelgesi": true,
+        "hgsOgs": true,
+        "trafik": true,
+        "kasko": true
+      },
+      "hgsOgs": {
+        "hgsNo": "3456789012",
+        "bakiye": 320.75,
+        "sonYukleme": "18.09.2024"
+      }
+    },
+    {
+      "id": "4",
+      "muayene": {
+        "tarih": "05.12.2024",
+        "kalanGun": 76,
+        "yuzde": 20,
+        "durum": "warning"
+      },
+      "sigorta": {
+        "policeNo": "TRF2023004567",
+        "bitisTarihi": "05.12.2024",
+        "yenilemeDurumu": "Yenileme Bekliyor",
+        "sirket": "Aksigorta",
+        "durum": "warning"
+      },
+      "kasko": {
+        "policeNo": "KSK2023008901",
+        "bitisTarihi": "05.12.2024",
+        "sirket": "Groupama Sigorta",
+        "durum": "warning"
+      },
+      "belgeler": {
+        "ruhsat": true,
+        "egzozEmisyon": true,
+        "kBelgesi": true,
+        "hgsOgs": true,
+        "trafik": true,
+        "kasko": true
+      },
+      "hgsOgs": {
+        "hgsNo": "4567890123",
+        "bakiye": 95.00,
+        "sonYukleme": "01.09.2024"
+      }
+    },
+    {
+      "id": "5",
+      "muayene": {
+        "tarih": "09.09.2025",
+        "kalanGun": 354,
+        "yuzde": 97,
+        "durum": "success"
+      },
+      "sigorta": {
+        "policeNo": "TRF2024005678",
+        "bitisTarihi": "09.09.2025",
+        "yenilemeDurumu": "Otomatik Yenileme Aktif",
+        "sirket": "Zürich Sigorta",
+        "durum": "success"
+      },
+      "kasko": {
+        "policeNo": "KSK2024009012",
+        "bitisTarihi": "09.09.2025",
+        "sirket": "Generali Sigorta",
+        "durum": "success"
+      },
+      "belgeler": {
+        "ruhsat": true,
+        "egzozEmisyon": true,
+        "kBelgesi": true,
+        "hgsOgs": true,
+        "trafik": true,
+        "kasko": true
+      },
+      "hgsOgs": {
+        "hgsNo": "5678901234",
+        "bakiye": 410.00,
+        "sonYukleme": "19.09.2024"
+      }
+    },
+    {
+      "id": "6",
+      "muayene": {
+        "tarih": "18.04.2026",
+        "kalanGun": 575,
+        "yuzde": 100,
+        "durum": "success"
+      },
+      "sigorta": {
+        "policeNo": "TRF2025006789",
+        "bitisTarihi": "18.04.2026",
+        "yenilemeDurumu": "Otomatik Yenileme Aktif",
+        "sirket": "Anadolu Sigorta",
+        "durum": "success"
+      },
+      "kasko": {
+        "policeNo": "KSK2025010123",
+        "bitisTarihi": "18.04.2026",
+        "sirket": "Allianz Sigorta",
+        "durum": "success"
+      },
+      "belgeler": {
+        "ruhsat": true,
+        "egzozEmisyon": true,
+        "kBelgesi": true,
+        "hgsOgs": true,
+        "trafik": true,
+        "kasko": true
+      },
+      "hgsOgs": {
+        "hgsNo": "6789012345",
+        "bakiye": 500.00,
+        "sonYukleme": "20.09.2024"
+      }
+    },
+    {
+      "id": "7",
+      "muayene": {
+        "tarih": "10.03.2025",
+        "kalanGun": 171,
+        "yuzde": 47,
+        "durum": "warning"
+      },
+      "sigorta": {
+        "policeNo": "TRF2024007890",
+        "bitisTarihi": "10.03.2025",
+        "yenilemeDurumu": "Manuel Yenileme",
+        "sirket": "Ray Sigorta",
+        "durum": "warning"
+      },
+      "kasko": {
+        "policeNo": "KSK2024011234",
+        "bitisTarihi": "10.03.2025",
+        "sirket": "Quick Sigorta",
+        "durum": "warning"
+      },
+      "belgeler": {
+        "ruhsat": true,
+        "egzozEmisyon": false,
+        "kBelgesi": true,
+        "hgsOgs": true,
+        "trafik": true,
+        "kasko": true
+      },
+      "hgsOgs": {
+        "hgsNo": "7890123456",
+        "bakiye": 45.50,
+        "sonYukleme": "05.09.2024"
+      }
+    },
+    {
+      "id": "8",
+      "muayene": {
+        "tarih": "01.12.2025",
+        "kalanGun": 437,
+        "yuzde": 100,
+        "durum": "success"
+      },
+      "sigorta": {
+        "policeNo": "TRF2024008901",
+        "bitisTarihi": "01.12.2025",
+        "yenilemeDurumu": "Otomatik Yenileme Aktif",
+        "sirket": "Eureko Sigorta",
+        "durum": "success"
+      },
+      "kasko": {
+        "policeNo": "KSK2024012345",
+        "bitisTarihi": "01.12.2025",
+        "sirket": "Ergo Sigorta",
+        "durum": "success"
+      },
+      "belgeler": {
+        "ruhsat": true,
+        "egzozEmisyon": true,
+        "kBelgesi": true,
+        "hgsOgs": true,
+        "trafik": true,
+        "kasko": true
+      },
+      "hgsOgs": {
+        "hgsNo": "8901234567",
+        "bakiye": 600.00,
+        "sonYukleme": "19.09.2024"
+      }
+    },
+    {
+      "id": "9",
+      "muayene": {
+        "tarih": "17.02.2025",
+        "kalanGun": 150,
+        "yuzde": 41,
+        "durum": "warning"
+      },
+      "sigorta": {
+        "policeNo": "TRF2024009012",
+        "bitisTarihi": "17.02.2025",
+        "yenilemeDurumu": "Yenileme Bekliyor",
+        "sirket": "Neova Sigorta",
+        "durum": "warning"
+      },
+      "kasko": {
+        "policeNo": "KSK2024013456",
+        "bitisTarihi": "17.02.2025",
+        "sirket": "Dubai Starr Sigorta",
+        "durum": "warning"
+      },
+      "belgeler": {
+        "ruhsat": true,
+        "egzozEmisyon": true,
+        "kBelgesi": true,
+        "hgsOgs": true,
+        "trafik": true,
+        "kasko": true
+      },
+      "hgsOgs": {
+        "hgsNo": "9012345678",
+        "bakiye": 280.00,
+        "sonYukleme": "12.09.2024"
+      }
+    },
+    {
+      "id": "10",
+      "muayene": {
+        "tarih": "21.03.2026",
+        "kalanGun": 547,
+        "yuzde": 100,
+        "durum": "success"
+      },
+      "sigorta": {
+        "policeNo": "TRF2025010123",
+        "bitisTarihi": "21.03.2026",
+        "yenilemeDurumu": "Otomatik Yenileme Aktif",
+        "sirket": "Güneş Sigorta",
+        "durum": "success"
+      },
+      "kasko": {
+        "policeNo": "KSK2025014567",
+        "bitisTarihi": "21.03.2026",
+        "sirket": "Doğa Sigorta",
+        "durum": "success"
+      },
+      "belgeler": {
+        "ruhsat": true,
+        "egzozEmisyon": true,
+        "kBelgesi": false,
+        "hgsOgs": true,
+        "trafik": true,
+        "kasko": true
+      },
+      "hgsOgs": {
+        "hgsNo": "0123456789",
+        "bakiye": 155.75,
+        "sonYukleme": "08.09.2024"
+      }
+    }
+  ],
+  "vehicle-maintenance": [
+    {
+      "id": "1",
+      "sonAriza": {
+        "tarih": "15.07.2024",
+        "aciklama": "Klima soğutma problemi",
+        "maliyet": 1250.00,
+        "durum": "Çözüldü"
+      },
+      "bakimGecmisi": [
+        {
+          "tarih": "10.09.2024",
+          "tip": "Periyodik Bakım",
+          "aciklama": "20.000 km bakımı - Yağ, filtre değişimi",
+          "maliyet": 2500.00,
+          "servis": "Toyota Yetkili Servis"
+        },
+        {
+          "tarih": "15.06.2024",
+          "tip": "Lastik Değişimi",
+          "aciklama": "4 adet yaz lastiği takıldı",
+          "maliyet": 8500.00,
+          "servis": "Michelin Yetkili Bayi"
+        },
+        {
+          "tarih": "20.03.2024",
+          "tip": "Fren Bakımı",
+          "aciklama": "Ön fren balataları değiştirildi",
+          "maliyet": 1800.00,
+          "servis": "Özel Servis"
+        }
+      ],
+      "yaklasanBakim": {
+        "tip": "Periyodik Bakım",
+        "aciklama": "50.000 km bakımı yaklaşıyor",
+        "tahminiTarih": "15.12.2024",
+        "kalanKm": 4680,
+        "tahminiMaliyet": 3500.00
+      },
+      "servisPeriyodu": "Her 10.000 km",
+      "garantiDurumu": "Devam Ediyor",
+      "garantiBitis": "14.10.2026"
+    },
+    {
+      "id": "2",
+      "sonAriza": {
+        "tarih": "02.08.2024",
+        "aciklama": "Turbo arızası",
+        "maliyet": 12500.00,
+        "durum": "Çözüldü"
+      },
+      "bakimGecmisi": [
+        {
+          "tarih": "05.09.2024",
+          "tip": "Periyodik Bakım",
+          "aciklama": "30.000 km bakımı",
+          "maliyet": 3200.00,
+          "servis": "Honda Yetkili Servis"
+        },
+        {
+          "tarih": "02.08.2024",
+          "tip": "Arıza Onarımı",
+          "aciklama": "Turbo değişimi",
+          "maliyet": 12500.00,
+          "servis": "Honda Yetkili Servis"
+        },
+        {
+          "tarih": "10.05.2024",
+          "tip": "Klima Bakımı",
+          "aciklama": "Klima gazı dolumu ve temizlik",
+          "maliyet": 850.00,
+          "servis": "Klima Uzmanı"
+        }
+      ],
+      "yaklasanBakim": {
+        "tip": "Yağ Değişimi",
+        "aciklama": "Motor yağı değişimi zamanı",
+        "tahminiTarih": "01.11.2024",
+        "kalanKm": 1550,
+        "tahminiMaliyet": 1200.00
+      },
+      "servisPeriyodu": "Her 15.000 km",
+      "garantiDurumu": "Devam Ediyor",
+      "garantiBitis": "01.02.2027"
+    },
+    {
+      "id": "3",
+      "sonAriza": {
+        "tarih": "20.09.2024",
+        "aciklama": "Motor sıcaklık sensörü arızası",
+        "maliyet": 750.00,
+        "durum": "Bakımda"
+      },
+      "bakimGecmisi": [
+        {
+          "tarih": "01.08.2024",
+          "tip": "Periyodik Bakım",
+          "aciklama": "10.000 km bakımı",
+          "maliyet": 1800.00,
+          "servis": "Hyundai Yetkili Servis"
+        },
+        {
+          "tarih": "15.05.2024",
+          "tip": "Kaporta İşlemi",
+          "aciklama": "Arka tampon boyası",
+          "maliyet": 2200.00,
+          "servis": "Kaporta Ustası"
+        }
+      ],
+      "yaklasanBakim": {
+        "tip": "Periyodik Bakım",
+        "aciklama": "20.000 km bakımı",
+        "tahminiTarih": "20.01.2025",
+        "kalanKm": 7200,
+        "tahminiMaliyet": 2400.00
+      },
+      "servisPeriyodu": "Her 10.000 km",
+      "garantiDurumu": "Devam Ediyor",
+      "garantiBitis": "10.01.2028"
+    },
+    {
+      "id": "4",
+      "sonAriza": {
+        "tarih": "30.06.2024",
+        "aciklama": "EGR valfi temizliği",
+        "maliyet": 1500.00,
+        "durum": "Çözüldü"
+      },
+      "bakimGecmisi": [
+        {
+          "tarih": "15.08.2024",
+          "tip": "Periyodik Bakım",
+          "aciklama": "60.000 km büyük bakım",
+          "maliyet": 5500.00,
+          "servis": "Volkswagen Yetkili Servis"
+        },
+        {
+          "tarih": "30.06.2024",
+          "tip": "Motor Bakımı",
+          "aciklama": "EGR temizliği ve enjektör bakımı",
+          "maliyet": 3200.00,
+          "servis": "Dizel Uzmanı"
+        },
+        {
+          "tarih": "10.04.2024",
+          "tip": "Süspansiyon",
+          "aciklama": "Ön amortisör değişimi",
+          "maliyet": 4500.00,
+          "servis": "Özel Servis"
+        }
+      ],
+      "yaklasanBakim": {
+        "tip": "Fren Bakımı",
+        "aciklama": "Fren diski ve balata kontrolü",
+        "tahminiTarih": "05.12.2024",
+        "kalanKm": 2110,
+        "tahminiMaliyet": 3800.00
+      },
+      "servisPeriyodu": "Her 15.000 km",
+      "garantiDurumu": "Sona Erdi",
+      "garantiBitis": "05.08.2023"
+    },
+    {
+      "id": "5",
+      "sonAriza": {
+        "tarih": "Yok",
+        "aciklama": "Arıza kaydı bulunmuyor",
+        "maliyet": 0,
+        "durum": "-"
+      },
+      "bakimGecmisi": [
+        {
+          "tarih": "10.09.2024",
+          "tip": "Periyodik Bakım",
+          "aciklama": "İlk 5000 km bakımı",
+          "maliyet": 1200.00,
+          "servis": "Peugeot Yetkili Servis"
+        },
+        {
+          "tarih": "01.07.2024",
+          "tip": "Yazılım Güncellemesi",
+          "aciklama": "Batarya yönetim sistemi güncellendi",
+          "maliyet": 0,
+          "servis": "Peugeot Yetkili Servis"
+        }
+      ],
+      "yaklasanBakim": {
+        "tip": "Periyodik Bakım",
+        "aciklama": "10.000 km bakımı",
+        "tahminiTarih": "09.03.2025",
+        "kalanKm": 1500,
+        "tahminiMaliyet": 1500.00
+      },
+      "servisPeriyodu": "Her 20.000 km",
+      "garantiDurumu": "Devam Ediyor",
+      "garantiBitis": "15.05.2028"
+    },
+    {
+      "id": "6",
+      "sonAriza": {
+        "tarih": "12.05.2024",
+        "aciklama": "Hava süspansiyon kompresörü",
+        "maliyet": 8500.00,
+        "durum": "Çözüldü"
+      },
+      "bakimGecmisi": [
+        {
+          "tarih": "01.09.2024",
+          "tip": "Periyodik Bakım",
+          "aciklama": "A Servis bakımı",
+          "maliyet": 4500.00,
+          "servis": "Mercedes Yetkili Servis"
+        },
+        {
+          "tarih": "12.05.2024",
+          "tip": "Süspansiyon Onarımı",
+          "aciklama": "Hava süspansiyon kompresör değişimi",
+          "maliyet": 8500.00,
+          "servis": "Mercedes Yetkili Servis"
+        },
+        {
+          "tarih": "20.02.2024",
+          "tip": "Detaylı Temizlik",
+          "aciklama": "İç-dış detaylı temizlik ve kaplama",
+          "maliyet": 2500.00,
+          "servis": "Detailing Center"
+        }
+      ],
+      "yaklasanBakim": {
+        "tip": "B Servis",
+        "aciklama": "Kapsamlı bakım paketi",
+        "tahminiTarih": "18.04.2025",
+        "kalanKm": 4330,
+        "tahminiMaliyet": 7500.00
+      },
+      "servisPeriyodu": "Her 25.000 km veya yılda 1",
+      "garantiDurumu": "Devam Ediyor",
+      "garantiBitis": "25.11.2027"
+    },
+    {
+      "id": "7",
+      "sonAriza": {
+        "tarih": "18.09.2024",
+        "aciklama": "Motor hararet yapıyor",
+        "maliyet": 3200.00,
+        "durum": "Arızalı"
+      },
+      "bakimGecmisi": [
+        {
+          "tarih": "25.07.2024",
+          "tip": "Periyodik Bakım",
+          "aciklama": "40.000 km bakımı",
+          "maliyet": 2800.00,
+          "servis": "Citroen Yetkili Servis"
+        },
+        {
+          "tarih": "10.04.2024",
+          "tip": "Lastik Rotasyonu",
+          "aciklama": "Lastik rotasyonu ve balans",
+          "maliyet": 400.00,
+          "servis": "Lastikçi"
+        },
+        {
+          "tarih": "15.01.2024",
+          "tip": "Akü Değişimi",
+          "aciklama": "Start-stop akü değişimi",
+          "maliyet": 2100.00,
+          "servis": "Özel Servis"
+        }
+      ],
+      "yaklasanBakim": {
+        "tip": "Motor Onarımı",
+        "aciklama": "Radyatör ve termostat değişimi gerekli",
+        "tahminiTarih": "25.09.2024",
+        "kalanKm": 0,
+        "tahminiMaliyet": 4500.00
+      },
+      "servisPeriyodu": "Her 15.000 km",
+      "garantiDurumu": "Sona Erdi",
+      "garantiBitis": "30.03.2024"
+    },
+    {
+      "id": "8",
+      "sonAriza": {
+        "tarih": "Yok",
+        "aciklama": "Arıza kaydı bulunmuyor",
+        "maliyet": 0,
+        "durum": "-"
+      },
+      "bakimGecmisi": [
+        {
+          "tarih": "15.09.2024",
+          "tip": "Yazılım Güncellemesi",
+          "aciklama": "Autopilot yazılım güncellemesi",
+          "maliyet": 0,
+          "servis": "Tesla Servis"
+        },
+        {
+          "tarih": "01.08.2024",
+          "tip": "Lastik Kontrolü",
+          "aciklama": "Lastik basınç ve aşınma kontrolü",
+          "maliyet": 150.00,
+          "servis": "Tesla Servis"
+        }
+      ],
+      "yaklasanBakim": {
+        "tip": "Yıllık Kontrol",
+        "aciklama": "Batarya sağlık kontrolü ve yazılım güncellemesi",
+        "tahminiTarih": "01.10.2025",
+        "kalanKm": 16800,
+        "tahminiMaliyet": 800.00
+      },
+      "servisPeriyodu": "Yılda 1 veya 40.000 km",
+      "garantiDurumu": "Devam Ediyor",
+      "garantiBitis": "01.10.2028"
+    },
+    {
+      "id": "9",
+      "sonAriza": {
+        "tarih": "25.05.2024",
+        "aciklama": "Şanzıman yağ kaçağı",
+        "maliyet": 2800.00,
+        "durum": "Çözüldü"
+      },
+      "bakimGecmisi": [
+        {
+          "tarih": "12.08.2024",
+          "tip": "Periyodik Bakım",
+          "aciklama": "40.000 km bakımı",
+          "maliyet": 4200.00,
+          "servis": "BMW Yetkili Servis"
+        },
+        {
+          "tarih": "25.05.2024",
+          "tip": "Şanzıman Bakımı",
+          "aciklama": "Şanzıman contası ve yağ değişimi",
+          "maliyet": 2800.00,
+          "servis": "BMW Yetkili Servis"
+        },
+        {
+          "tarih": "10.03.2024",
+          "tip": "Klima Bakımı",
+          "aciklama": "Polen filtresi ve klima dezenfeksiyonu",
+          "maliyet": 1200.00,
+          "servis": "BMW Yetkili Servis"
+        }
+      ],
+      "yaklasanBakim": {
+        "tip": "Fren Sıvısı",
+        "aciklama": "Fren sıvısı değişimi zamanı",
+        "tahminiTarih": "17.02.2025",
+        "kalanKm": 3750,
+        "tahminiMaliyet": 1500.00
+      },
+      "servisPeriyodu": "Her 20.000 km",
+      "garantiDurumu": "Sona Erdi",
+      "garantiBitis": "15.08.2024"
+    },
+    {
+      "id": "10",
+      "sonAriza": {
+        "tarih": "10.07.2024",
+        "aciklama": "Elektrik sisteminde kısa devre",
+        "maliyet": 1100.00,
+        "durum": "Çözüldü"
+      },
+      "bakimGecmisi": [
+        {
+          "tarih": "20.09.2024",
+          "tip": "Yağ Değişimi",
+          "aciklama": "Motor yağı ve filtre değişimi",
+          "maliyet": 950.00,
+          "servis": "Renault Yetkili Servis"
+        },
+        {
+          "tarih": "10.07.2024",
+          "tip": "Elektrik Onarımı",
+          "aciklama": "Sigorta kutusu ve kablo onarımı",
+          "maliyet": 1100.00,
+          "servis": "Oto Elektrikçi"
+        },
+        {
+          "tarih": "15.04.2024",
+          "tip": "Egzoz Bakımı",
+          "aciklama": "Egzoz contası değişimi",
+          "maliyet": 650.00,
+          "servis": "Egzozcu"
+        }
+      ],
+      "yaklasanBakim": {
+        "tip": "Periyodik Bakım",
+        "aciklama": "30.000 km bakımı yaklaşıyor",
+        "tahminiTarih": "21.03.2025",
+        "kalanKm": 200,
+        "tahminiMaliyet": 2200.00
+      },
+      "servisPeriyodu": "Her 15.000 km",
+      "garantiDurumu": "Devam Ediyor",
+      "garantiBitis": "20.12.2026"
+    }
+  ],
+  "vehicle-technical": [
+    {
+      "id": "1",
+      "aracSinifi": "Sedan",
+      "cinsi": "Otomobil",
+      "tipi": "M1",
+      "renk": "Beyaz",
+      "motorGucu": {
+        "kw": 90,
+        "hp": 122,
+        "birim": "kW / HP"
+      },
+      "silindirHacmi": 1600,
+      "netAgirlik": 1285,
+      "azamiYukluAgirlik": 1750,
+      "romorkKapasitesi": {
+        "frenli": 1200,
+        "frensiz": 750
+      },
+      "koltukSayisi": 5,
+      "ayaktaYolcuKapasitesi": 0,
+      "yakitTipi": "Benzin",
+      "motorTipi": "4 Silindir Sıralı",
+      "emisyonStandardi": "Euro 6",
+      "sanziman": {
+        "tip": "Otomatik",
+        "vitesSayisi": "CVT"
+      },
+      "cekisSistemi": "Önden Çekiş",
+      "lastikBoyutu": "205/55 R16",
+      "yakitDepoHacmi": 50
+    },
+    {
+      "id": "2",
+      "aracSinifi": "Hatchback",
+      "cinsi": "Otomobil",
+      "tipi": "M1",
+      "renk": "Gri",
+      "motorGucu": {
+        "kw": 103,
+        "hp": 140,
+        "birim": "kW / HP"
+      },
+      "silindirHacmi": 1800,
+      "netAgirlik": 1320,
+      "azamiYukluAgirlik": 1820,
+      "romorkKapasitesi": {
+        "frenli": 1400,
+        "frensiz": 750
+      },
+      "koltukSayisi": 5,
+      "ayaktaYolcuKapasitesi": 0,
+      "yakitTipi": "Dizel",
+      "motorTipi": "4 Silindir Turbo",
+      "emisyonStandardi": "Euro 6d",
+      "sanziman": {
+        "tip": "Manuel",
+        "vitesSayisi": "6"
+      },
+      "cekisSistemi": "Önden Çekiş",
+      "lastikBoyutu": "215/50 R17",
+      "yakitDepoHacmi": 46
+    },
+    {
+      "id": "3",
+      "aracSinifi": "Hatchback",
+      "cinsi": "Otomobil",
+      "tipi": "M1",
+      "renk": "Kırmızı",
+      "motorGucu": {
+        "kw": 74,
+        "hp": 100,
+        "birim": "kW / HP"
+      },
+      "silindirHacmi": 1200,
+      "netAgirlik": 1090,
+      "azamiYukluAgirlik": 1550,
+      "romorkKapasitesi": {
+        "frenli": 910,
+        "frensiz": 450
+      },
+      "koltukSayisi": 5,
+      "ayaktaYolcuKapasitesi": 0,
+      "yakitTipi": "Benzin",
+      "motorTipi": "4 Silindir",
+      "emisyonStandardi": "Euro 6d-TEMP",
+      "sanziman": {
+        "tip": "Manuel",
+        "vitesSayisi": "5"
+      },
+      "cekisSistemi": "Önden Çekiş",
+      "lastikBoyutu": "195/55 R16",
+      "yakitDepoHacmi": 40
+    },
+    {
+      "id": "4",
+      "aracSinifi": "Hatchback",
+      "cinsi": "Otomobil",
+      "tipi": "M1",
+      "renk": "Lacivert",
+      "motorGucu": {
+        "kw": 110,
+        "hp": 150,
+        "birim": "kW / HP"
+      },
+      "silindirHacmi": 2000,
+      "netAgirlik": 1365,
+      "azamiYukluAgirlik": 1870,
+      "romorkKapasitesi": {
+        "frenli": 1500,
+        "frensiz": 750
+      },
+      "koltukSayisi": 5,
+      "ayaktaYolcuKapasitesi": 0,
+      "yakitTipi": "Dizel",
+      "motorTipi": "4 Silindir TDI",
+      "emisyonStandardi": "Euro 6",
+      "sanziman": {
+        "tip": "Otomatik DSG",
+        "vitesSayisi": "7"
+      },
+      "cekisSistemi": "Önden Çekiş",
+      "lastikBoyutu": "225/45 R17",
+      "yakitDepoHacmi": 50
+    },
+    {
+      "id": "5",
+      "aracSinifi": "SUV",
+      "cinsi": "Arazi Aracı",
+      "tipi": "M1G",
+      "renk": "Siyah",
+      "motorGucu": {
+        "kw": 110,
+        "hp": 150,
+        "birim": "kW / HP"
+      },
+      "silindirHacmi": 0,
+      "netAgirlik": 1450,
+      "azamiYukluAgirlik": 2000,
+      "romorkKapasitesi": {
+        "frenli": 1650,
+        "frensiz": 750
+      },
+      "koltukSayisi": 5,
+      "ayaktaYolcuKapasitesi": 0,
+      "yakitTipi": "Elektrik",
+      "motorTipi": "Elektrik Motor",
+      "emisyonStandardi": "Sıfır Emisyon",
+      "sanziman": {
+        "tip": "Tek Vites",
+        "vitesSayisi": "1"
+      },
+      "cekisSistemi": "Önden Çekiş",
+      "lastikBoyutu": "215/60 R17",
+      "yakitDepoHacmi": 0,
+      "bataryaKapasitesi": "50 kWh"
+    },
+    {
+      "id": "6",
+      "aracSinifi": "Sedan",
+      "cinsi": "Otomobil",
+      "tipi": "M1",
+      "renk": "Gümüş Gri",
+      "motorGucu": {
+        "kw": 147,
+        "hp": 200,
+        "birim": "kW / HP"
+      },
+      "silindirHacmi": 2200,
+      "netAgirlik": 1540,
+      "azamiYukluAgirlik": 2055,
+      "romorkKapasitesi": {
+        "frenli": 1800,
+        "frensiz": 750
+      },
+      "koltukSayisi": 5,
+      "ayaktaYolcuKapasitesi": 0,
+      "yakitTipi": "Dizel",
+      "motorTipi": "4 Silindir Turbo",
+      "emisyonStandardi": "Euro 6d-ISC-FCM",
+      "sanziman": {
+        "tip": "Otomatik 9G-Tronic",
+        "vitesSayisi": "9"
+      },
+      "cekisSistemi": "Arkadan İtiş",
+      "lastikBoyutu": "245/40 R18",
+      "yakitDepoHacmi": 66
+    },
+    {
+      "id": "7",
+      "aracSinifi": "Hatchback",
+      "cinsi": "Otomobil",
+      "tipi": "M1",
+      "renk": "Turuncu",
+      "motorGucu": {
+        "kw": 96,
+        "hp": 130,
+        "birim": "kW / HP"
+      },
+      "silindirHacmi": 1200,
+      "netAgirlik": 1200,
+      "azamiYukluAgirlik": 1680,
+      "romorkKapasitesi": {
+        "frenli": 1100,
+        "frensiz": 600
+      },
+      "koltukSayisi": 5,
+      "ayaktaYolcuKapasitesi": 0,
+      "yakitTipi": "Benzin",
+      "motorTipi": "3 Silindir PureTech",
+      "emisyonStandardi": "Euro 6.2",
+      "sanziman": {
+        "tip": "Otomatik EAT8",
+        "vitesSayisi": "8"
+      },
+      "cekisSistemi": "Önden Çekiş",
+      "lastikBoyutu": "205/55 R16",
+      "yakitDepoHacmi": 50
+    },
+    {
+      "id": "8",
+      "aracSinifi": "Sedan",
+      "cinsi": "Otomobil",
+      "tipi": "M1",
+      "renk": "Pearl White",
+      "motorGucu": {
+        "kw": 208,
+        "hp": 283,
+        "birim": "kW / HP"
+      },
+      "silindirHacmi": 0,
+      "netAgirlik": 1611,
+      "azamiYukluAgirlik": 2014,
+      "romorkKapasitesi": {
+        "frenli": 910,
+        "frensiz": 0
+      },
+      "koltukSayisi": 5,
+      "ayaktaYolcuKapasitesi": 0,
+      "yakitTipi": "Elektrik",
+      "motorTipi": "Kalıcı Mıknatıslı Senkron Motor",
+      "emisyonStandardi": "Sıfır Emisyon",
+      "sanziman": {
+        "tip": "Tek Vites",
+        "vitesSayisi": "1"
+      },
+      "cekisSistemi": "Arkadan İtiş",
+      "lastikBoyutu": "235/45 R18",
+      "yakitDepoHacmi": 0,
+      "bataryaKapasitesi": "60 kWh",
+      "menzil": "430 km WLTP"
+    },
+    {
+      "id": "9",
+      "aracSinifi": "SUV",
+      "cinsi": "Arazi Aracı",
+      "tipi": "M1G",
+      "renk": "Mineral Gri",
+      "motorGucu": {
+        "kw": 141,
+        "hp": 192,
+        "birim": "kW / HP"
+      },
+      "silindirHacmi": 2000,
+      "netAgirlik": 1525,
+      "azamiYukluAgirlik": 2050,
+      "romorkKapasitesi": {
+        "frenli": 1800,
+        "frensiz": 750
+      },
+      "koltukSayisi": 5,
+      "ayaktaYolcuKapasitesi": 0,
+      "yakitTipi": "Benzin",
+      "motorTipi": "3 Silindir TwinPower Turbo",
+      "emisyonStandardi": "Euro 6d",
+      "sanziman": {
+        "tip": "Otomatik Steptronic",
+        "vitesSayisi": "7"
+      },
+      "cekisSistemi": "xDrive Dört Çeker",
+      "lastikBoyutu": "225/55 R18",
+      "yakitDepoHacmi": 51
+    },
+    {
+      "id": "10",
+      "aracSinifi": "Sedan",
+      "cinsi": "Otomobil",
+      "tipi": "M1",
+      "renk": "Mavi",
+      "motorGucu": {
+        "kw": 103,
+        "hp": 140,
+        "birim": "kW / HP"
+      },
+      "silindirHacmi": 1600,
+      "netAgirlik": 1290,
+      "azamiYukluAgirlik": 1790,
+      "romorkKapasitesi": {
+        "frenli": 1300,
+        "frensiz": 685
+      },
+      "koltukSayisi": 5,
+      "ayaktaYolcuKapasitesi": 0,
+      "yakitTipi": "Benzin",
+      "motorTipi": "4 Silindir",
+      "emisyonStandardi": "Euro 6",
+      "sanziman": {
+        "tip": "Manuel",
+        "vitesSayisi": "6"
+      },
+      "cekisSistemi": "Önden Çekiş",
+      "lastikBoyutu": "205/55 R17",
+      "yakitDepoHacmi": 50
+    }
+  ],
+  "vehicle-superstructure": [
+    {
+      "id": "1",
+      "ustYapiTipi": "Yok",
+      "uretici": "-",
+      "kapasite": "-",
+      "mevcutDoluluk": 0,
+      "dolulukYuzde": 0,
+      "ekDonanim": [],
+      "ozellikler": {}
+    },
+    {
+      "id": "2",
+      "ustYapiTipi": "Yok",
+      "uretici": "-",
+      "kapasite": "-",
+      "mevcutDoluluk": 0,
+      "dolulukYuzde": 0,
+      "ekDonanim": ["Bagaj Rafı", "Çeki Demiri"],
+      "ozellikler": {
+        "bagajRafi": "Thule Motion XT",
+        "cekiDemiri": "Westfalia"
+      }
+    },
+    {
+      "id": "3",
+      "ustYapiTipi": "Yok",
+      "uretici": "-",
+      "kapasite": "-",
+      "mevcutDoluluk": 0,
+      "dolulukYuzde": 0,
+      "ekDonanim": [],
+      "ozellikler": {}
+    },
+    {
+      "id": "4",
+      "ustYapiTipi": "Frigorifik Kasa",
+      "uretici": "Carrier Transicold",
+      "kapasite": "8 m³",
+      "mevcutDoluluk": 5.2,
+      "dolulukYuzde": 65,
+      "ekDonanim": ["Soğutma Ünitesi", "Sıcaklık Kayıt Cihazı"],
+      "ozellikler": {
+        "sicaklikAraligi": "-25°C / +25°C",
+        "sogutmaGucu": "4.5 kW",
+        "yalitim": "80mm Polyurethane",
+        "kapiBoyutu": "1.8m x 2.0m"
+      }
+    },
+    {
+      "id": "5",
+      "ustYapiTipi": "Yok",
+      "uretici": "-",
+      "kapasite": "-",
+      "mevcutDoluluk": 0,
+      "dolulukYuzde": 0,
+      "ekDonanim": ["Tavan Barları", "Bisiklet Taşıyıcı"],
+      "ozellikler": {
+        "tavanBarlari": "Peugeot Orijinal",
+        "bisikletKapasitesi": "2 adet"
+      }
+    },
+    {
+      "id": "6",
+      "ustYapiTipi": "VIP Donanım",
+      "uretici": "Mercedes-Benz Özel",
+      "kapasite": "4 koltuk",
+      "mevcutDoluluk": 0,
+      "dolulukYuzde": 0,
+      "ekDonanim": ["Buzdolabı", "TV/Multimedya", "Masaj Koltuğu"],
+      "ozellikler": {
+        "koltukMalzemesi": "Nappa Deri",
+        "iklimKontrol": "4 Bölgeli",
+        "sesYalitimi": "Çift Katmanlı",
+        "barUnit": "Mini Bar",
+        "perdeSystem": "Elektrikli Perde"
+      }
+    },
+    {
+      "id": "7",
+      "ustYapiTipi": "Yok",
+      "uretici": "-",
+      "kapasite": "-",
+      "mevcutDoluluk": 0,
+      "dolulukYuzde": 0,
+      "ekDonanim": [],
+      "ozellikler": {}
+    },
+    {
+      "id": "8",
+      "ustYapiTipi": "Yok",
+      "uretici": "-",
+      "kapasite": "-",
+      "mevcutDoluluk": 0,
+      "dolulukYuzde": 0,
+      "ekDonanim": ["Autopilot", "Premium Ses Sistemi"],
+      "ozellikler": {
+        "autopilotVersion": "FSD Beta",
+        "kameraSayisi": "8 adet",
+        "sesSistemi": "Premium Audio - 14 hoparlör"
+      }
+    },
+    {
+      "id": "9",
+      "ustYapiTipi": "Kurtarma Donanımı",
+      "uretici": "Warn Industries",
+      "kapasite": "3500 kg",
+      "mevcutDoluluk": 0,
+      "dolulukYuzde": 0,
+      "ekDonanim": ["Elektrikli Vinç", "Koruma Barları", "LED Projektör"],
+      "ozellikler": {
+        "vincModeli": "Warn Zeon 10-S",
+        "cekmeKapasitesi": "4536 kg",
+        "halatUzunlugu": "30 metre",
+        "korumaBarlari": "ARB Deluxe",
+        "ledGucu": "120W",
+        "snorkel": "Safari Snorkel"
+      }
+    },
+    {
+      "id": "10",
+      "ustYapiTipi": "Tanker",
+      "uretici": "Özgül Tanker",
+      "kapasite": "5000 litre",
+      "mevcutDoluluk": 3200,
+      "dolulukYuzde": 64,
+      "ekDonanim": ["Pompa Sistemi", "Sayaç", "Güvenlik Valfi"],
+      "ozellikler": {
+        "tankMalzemesi": "304 Paslanmaz Çelik",
+        "bolmeSayisi": "3 bölme",
+        "pompaKapasitesi": "250 L/dk",
+        "sayacTipi": "Dijital",
+        "emniyet": "ADR Sertifikalı",
+        "tasima": "Akaryakıt"
+      }
+    }
+  ],
+  "vehicle-registration": [
+    {
+      "id": "1",
+      "ilkTescilTarihi": "15.03.2020",
+      "sonTescilTarihi": "14.10.2024",
+      "tescilSiraNo": "2024/123456",
+      "sasiNo": "VN202509040001AAAAA",
+      "motorNo": "1ZR-FE-789012",
+      "sahipBilgisi": {
+        "adi": "Ahmet Yılmaz",
+        "tcknVergiNo": "12345678901",
+        "adres": "Kadıköy, Bahariye Cad. No:45 İstanbul"
+      },
+      "finansalDurum": {
+        "durum": "Satın Alma",
+        "finansKurumu": "-",
+        "krediDurumu": "Yok"
+      },
+      "oncekiSahipler": [
+        {
+          "adi": "Toyota Yetkili Bayi",
+          "sahiplikSuresi": "2020-2024",
+          "devirTarihi": "14.10.2024"
+        }
+      ],
+      "noterBilgileri": {
+        "noterAdi": "İstanbul 35. Noter",
+        "satisNo": "2024/98765",
+        "satisTarihi": "10.10.2024"
+      },
+      "aracUzerindekiHakSahibi": "Yok",
+      "tescilBelgesi": {
+        "seriNo": "AA 123456",
+        "onaylayanTescil": "İstanbul Trafik Tescil",
+        "tipOnayNo": "e13*2007/46*0892*05"
+      },
+      "kullanimAmaci": "Hususi"
+    },
+    {
+      "id": "2",
+      "ilkTescilTarihi": "20.06.2021",
+      "sonTescilTarihi": "01.02.2025",
+      "tescilSiraNo": "2025/234567",
+      "sasiNo": "VN202509040002BBBBB",
+      "motorNo": "N16A1-456789",
+      "sahipBilgisi": {
+        "adi": "Mehmet Kaya",
+        "tcknVergiNo": "98765432109",
+        "adres": "Çankaya, Tunalı Hilmi Cad. No:78 Ankara"
+      },
+      "finansalDurum": {
+        "durum": "Kredi",
+        "finansKurumu": "XYZ Bank A.Ş.",
+        "krediDurumu": "Devam Ediyor (24/48 ay)"
+      },
+      "oncekiSahipler": [
+        {
+          "adi": "Honda Yetkili Bayi",
+          "sahiplikSuresi": "2021-2025",
+          "devirTarihi": "01.02.2025"
+        }
+      ],
+      "noterBilgileri": {
+        "noterAdi": "Ankara 12. Noter",
+        "satisNo": "2025/12345",
+        "satisTarihi": "25.01.2025"
+      },
+      "aracUzerindekiHakSahibi": "XYZ Bank A.Ş.",
+      "tescilBelgesi": {
+        "seriNo": "BB 234567",
+        "onaylayanTescil": "Ankara Trafik Tescil",
+        "tipOnayNo": "e11*2007/46*1234*03"
+      },
+      "kullanimAmaci": "Hususi"
+    },
+    {
+      "id": "3",
+      "ilkTescilTarihi": "10.01.2023",
+      "sonTescilTarihi": "20.06.2024",
+      "tescilSiraNo": "2024/345678",
+      "sasiNo": "VN202509040003CCCCC",
+      "motorNo": "G4LA-321654",
+      "sahipBilgisi": {
+        "adi": "Ayşe Demir",
+        "tcknVergiNo": "55566677788",
+        "adres": "Karşıyaka, Cemal Gürsel Cad. No:123 İzmir"
+      },
+      "finansalDurum": {
+        "durum": "Satın Alma",
+        "finansKurumu": "-",
+        "krediDurumu": "Yok"
+      },
+      "oncekiSahipler": [
+        {
+          "adi": "İlk Sahip",
+          "sahiplikSuresi": "2023-2024",
+          "devirTarihi": "20.06.2024"
+        }
+      ],
+      "noterBilgileri": {
+        "noterAdi": "İzmir 8. Noter",
+        "satisNo": "2024/54321",
+        "satisTarihi": "15.06.2024"
+      },
+      "aracUzerindekiHakSahibi": "Yok",
+      "tescilBelgesi": {
+        "seriNo": "CC 345678",
+        "onaylayanTescil": "İzmir Trafik Tescil",
+        "tipOnayNo": "e9*2007/46*2345*02"
+      },
+      "kullanimAmaci": "Hususi"
+    },
+    {
+      "id": "4",
+      "ilkTescilTarihi": "05.08.2019",
+      "sonTescilTarihi": "05.12.2023",
+      "tescilSiraNo": "2023/456789",
+      "sasiNo": "VN202509040004DDDDD",
+      "motorNo": "CJAA-987654",
+      "sahipBilgisi": {
+        "adi": "Ali Öztürk",
+        "tcknVergiNo": "33344455566",
+        "adres": "Nilüfer, Görükle Kampüs No:45 Bursa"
+      },
+      "finansalDurum": {
+        "durum": "Finansal Kiralama",
+        "finansKurumu": "ABC Finans A.Ş.",
+        "krediDurumu": "36/60 ay"
+      },
+      "oncekiSahipler": [
+        {
+          "adi": "Leasing Şirketi",
+          "sahiplikSuresi": "2019-2023",
+          "devirTarihi": "05.12.2023"
+        },
+        {
+          "adi": "İlk Kullanıcı Firma",
+          "sahiplikSuresi": "2019-2023",
+          "devirTarihi": "-"
+        }
+      ],
+      "noterBilgileri": {
+        "noterAdi": "Bursa 15. Noter",
+        "satisNo": "2023/87654",
+        "satisTarihi": "01.12.2023"
+      },
+      "aracUzerindekiHakSahibi": "ABC Finans A.Ş.",
+      "tescilBelgesi": {
+        "seriNo": "DD 456789",
+        "onaylayanTescil": "Bursa Trafik Tescil",
+        "tipOnayNo": "e1*2007/46*3456*04"
+      },
+      "kullanimAmaci": "Hususi"
+    },
+    {
+      "id": "5",
+      "ilkTescilTarihi": "15.05.2023",
+      "sonTescilTarihi": "09.09.2024",
+      "tescilSiraNo": "2024/567890",
+      "sasiNo": "VN202509040006FFFFF",
+      "motorNo": "YHZ-147852",
+      "sahipBilgisi": {
+        "adi": "Zeynep Yıldız",
+        "tcknVergiNo": "77788899900",
+        "adres": "Seyhan, Turgut Özal Bulvarı No:200 Adana"
+      },
+      "finansalDurum": {
+        "durum": "Satın Alma",
+        "finansKurumu": "-",
+        "krediDurumu": "Yok"
+      },
+      "oncekiSahipler": [],
+      "noterBilgileri": {
+        "noterAdi": "Adana 7. Noter",
+        "satisNo": "2024/65432",
+        "satisTarihi": "05.09.2024"
+      },
+      "aracUzerindekiHakSahibi": "Yok",
+      "tescilBelgesi": {
+        "seriNo": "EE 567890",
+        "onaylayanTescil": "Adana Trafik Tescil",
+        "tipOnayNo": "e2*2007/46*4567*03"
+      },
+      "kullanimAmaci": "Hususi"
+    },
+    {
+      "id": "6",
+      "ilkTescilTarihi": "25.11.2022",
+      "sonTescilTarihi": "18.04.2025",
+      "tescilSiraNo": "2025/678901",
+      "sasiNo": "VN202509040009IIIII",
+      "motorNo": "OM654-258963",
+      "sahipBilgisi": {
+        "adi": "XYZ Turizm Ltd. Şti.",
+        "tcknVergiNo": "1234567890",
+        "adres": "Beşiktaş, Barbaros Bulvarı No:100 İstanbul"
+      },
+      "finansalDurum": {
+        "durum": "Operasyonel Kiralama",
+        "finansKurumu": "DEF Leasing A.Ş.",
+        "krediDurumu": "24/48 ay"
+      },
+      "oncekiSahipler": [
+        {
+          "adi": "Mercedes-Benz Türk A.Ş.",
+          "sahiplikSuresi": "2022-2025",
+          "devirTarihi": "18.04.2025"
+        }
+      ],
+      "noterBilgileri": {
+        "noterAdi": "İstanbul 45. Noter",
+        "satisNo": "2025/23456",
+        "satisTarihi": "10.04.2025"
+      },
+      "aracUzerindekiHakSahibi": "DEF Leasing A.Ş.",
+      "tescilBelgesi": {
+        "seriNo": "FF 678901",
+        "onaylayanTescil": "İstanbul Trafik Tescil",
+        "tipOnayNo": "e1*2007/46*5678*05"
+      },
+      "kullanimAmaci": "Ticari"
+    },
+    {
+      "id": "7",
+      "ilkTescilTarihi": "30.03.2020",
+      "sonTescilTarihi": "10.03.2024",
+      "tescilSiraNo": "2024/789012",
+      "sasiNo": "VN202509040018RRRRR",
+      "motorNo": "EB2DT-963852",
+      "sahipBilgisi": {
+        "adi": "Fatma Şahin",
+        "tcknVergiNo": "11122233344",
+        "adres": "Tuzla, Sahil Yolu No:85 İstanbul"
+      },
+      "finansalDurum": {
+        "durum": "Satın Alma",
+        "finansKurumu": "-",
+        "krediDurumu": "Yok"
+      },
+      "oncekiSahipler": [
+        {
+          "adi": "Önceki Sahip",
+          "sahiplikSuresi": "2020-2024",
+          "devirTarihi": "10.03.2024"
+        }
+      ],
+      "noterBilgileri": {
+        "noterAdi": "İstanbul 18. Noter",
+        "satisNo": "2024/34567",
+        "satisTarihi": "05.03.2024"
+      },
+      "aracUzerindekiHakSahibi": "Yok",
+      "tescilBelgesi": {
+        "seriNo": "GG 789012",
+        "onaylayanTescil": "İstanbul Trafik Tescil",
+        "tipOnayNo": "e2*2007/46*6789*02"
+      },
+      "kullanimAmaci": "Hususi"
+    },
+    {
+      "id": "8",
+      "ilkTescilTarihi": "01.10.2023",
+      "sonTescilTarihi": "01.12.2024",
+      "tescilSiraNo": "2024/890123",
+      "sasiNo": "VN202509040021UUUUU",
+      "motorNo": "ELEC-TM3-2024",
+      "sahipBilgisi": {
+        "adi": "Can Polat",
+        "tcknVergiNo": "99988877766",
+        "adres": "Çankaya, Atatürk Bulvarı No:150 Ankara"
+      },
+      "finansalDurum": {
+        "durum": "Kredi",
+        "finansKurumu": "GHI Bank A.Ş.",
+        "krediDurumu": "12/60 ay"
+      },
+      "oncekiSahipler": [],
+      "noterBilgileri": {
+        "noterAdi": "Ankara 25. Noter",
+        "satisNo": "2024/45678",
+        "satisTarihi": "25.11.2024"
+      },
+      "aracUzerindekiHakSahibi": "GHI Bank A.Ş.",
+      "tescilBelgesi": {
+        "seriNo": "HH 890123",
+        "onaylayanTescil": "Ankara Trafik Tescil",
+        "tipOnayNo": "e13*2007/46*7890*06"
+      },
+      "kullanimAmaci": "Hususi"
+    },
+    {
+      "id": "9",
+      "ilkTescilTarihi": "15.08.2020",
+      "sonTescilTarihi": "17.02.2024",
+      "tescilSiraNo": "2024/901234",
+      "sasiNo": "VN202509040026ZZZZZ",
+      "motorNo": "B38A15A-741852",
+      "sahipBilgisi": {
+        "adi": "Emre Arslan",
+        "tcknVergiNo": "44455566677",
+        "adres": "Gebze, Cumhuriyet Cad. No:75 Kocaeli"
+      },
+      "finansalDurum": {
+        "durum": "Finansal Kiralama",
+        "finansKurumu": "JKL Finans A.Ş.",
+        "krediDurumu": "40/60 ay"
+      },
+      "oncekiSahipler": [
+        {
+          "adi": "BMW Borusan Otomotiv",
+          "sahiplikSuresi": "2020-2024",
+          "devirTarihi": "17.02.2024"
+        }
+      ],
+      "noterBilgileri": {
+        "noterAdi": "Kocaeli 9. Noter",
+        "satisNo": "2024/56789",
+        "satisTarihi": "12.02.2024"
+      },
+      "aracUzerindekiHakSahibi": "JKL Finans A.Ş.",
+      "tescilBelgesi": {
+        "seriNo": "II 901234",
+        "onaylayanTescil": "Kocaeli Trafik Tescil",
+        "tipOnayNo": "e1*2007/46*8901*04"
+      },
+      "kullanimAmaci": "Hususi"
+    },
+    {
+      "id": "10",
+      "ilkTescilTarihi": "20.12.2021",
+      "sonTescilTarihi": "21.03.2025",
+      "tescilSiraNo": "2025/012345",
+      "sasiNo": "VN202509040029C3C3C",
+      "motorNo": "K4M-852963",
+      "sahipBilgisi": {
+        "adi": "Selin Özkan",
+        "tcknVergiNo": "66677788899",
+        "adres": "Bornova, Ankara Cad. No:200 İzmir"
+      },
+      "finansalDurum": {
+        "durum": "Satın Alma",
+        "finansKurumu": "-",
+        "krediDurumu": "Yok"
+      },
+      "oncekiSahipler": [
+        {
+          "adi": "İlk Sahip",
+          "sahiplikSuresi": "2021-2025",
+          "devirTarihi": "21.03.2025"
+        }
+      ],
+      "noterBilgileri": {
+        "noterAdi": "İzmir 14. Noter",
+        "satisNo": "2025/67890",
+        "satisTarihi": "15.03.2025"
+      },
+      "aracUzerindekiHakSahibi": "Yok",
+      "tescilBelgesi": {
+        "seriNo": "JJ 012345",
+        "onaylayanTescil": "İzmir Trafik Tescil",
+        "tipOnayNo": "e2*2007/46*9012*03"
+      },
+      "kullanimAmaci": "Hususi"
+    }
   ]
 }
