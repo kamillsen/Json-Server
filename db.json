@@ -2997,8 +2997,8 @@
       "ustYapiTipi": "Kurtarma Donanımı",
       "uretici": "Warn Industries",
       "kapasite": "3500 kg",
-      "mevcutDoluluk": 0,
-      "dolulukYuzde": 0,
+      "mevcutDoluluk": 1750,
+      "dolulukYuzde": 50,
       "ekDonanim": ["Elektrikli Vinç", "Koruma Barları", "LED Projektör"],
       "ozellikler": {
         "vincModeli": "Warn Zeon 10-S",
